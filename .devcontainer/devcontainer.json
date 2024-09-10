@@ -6,6 +6,9 @@
 	"image": "mcr.microsoft.com/devcontainers/python:0-3.11",
 	"customizations": {
 		"vscode": {
+			"settings": {
+				"python.defaultInterpreterPath": "/usr/local/bin/python"
+			},
 			"extensions": [
 				"vsls-contrib.codetour",
 				"GitHub.copilot",
