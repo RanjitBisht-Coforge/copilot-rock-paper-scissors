@@ -8,7 +8,10 @@
 		"vscode": {
 			"extensions": [
 				"vsls-contrib.codetour",
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"ms-python.python",
+				"ms-toolsai.jupyter",
+				"ms-python.vscode-pylance"
 			]
 		}
 	}
